@@ -2,12 +2,12 @@
 
 ### 👨‍💻 Software Engineering Student @ ENSIASD | Full Stack & Blockchain Developer
 
-[cite_start]I am a passionate software engineer based in **Morocco** [cite: 1814][cite_start], currently studying at **ENSIASD Taroudant**[cite: 1832]. [cite_start]I love solving complex problems and building concrete solutions, ranging from mobile apps to decentralized Web3 marketplaces[cite: 1812].
+I am a passionate software engineer based in **Morocco**, currently studying at **ENSIASD Taroudant**.I love solving complex problems and building concrete solutions, ranging from mobile apps to decentralized Web3 marketplaces.
 
 - 🔭 I’m currently working on **Decentralized Applications (DApps)** and **Spring Boot Ecosystems**.
 - 🌱 I’m currently learning **Advanced Smart Contract Security**.
 - 💼 I recently completed a Blockchain internship at **Khaoulaj Group Operations**.
-- [cite_start]📫 Reach me at: **bahraouiyassir.pro@gmail.com** [cite: 1813]
+- 📫 Reach me at: **bahraouiyassir.pro@gmail.com**
 
 ---
 
@@ -41,9 +41,9 @@
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **MetaMarket** | A decentralized marketplace (DApp) deployed on BlockDAG allowing P2P trading of digital assets with secure crypto payments. | Solidity, React 19, IPFS, Hardhat |
-| **Busify** | [cite_start]Mobile bus reservation app for 1337 Coding School featuring QR codes and optimized routes[cite: 1839, 1843]. | Flutter, Firebase, Google Maps API |
-| **Green Step** | [cite_start]Web platform for an NGO dedicated to environmental protection and social action[cite: 1849]. | React.js, Bootstrap, AOS |
-| **Rapid Delivery** | [cite_start]Real-time delivery tracking mobile application with driver dashboard[cite: 1854]. | Flutter, Firebase, Maps API |
+| **Busify** | Mobile bus reservation app for 1337 Coding School featuring QR codes and optimized routes. | Flutter, Firebase, Google Maps API |
+| **Green Step** | Web platform for an NGO dedicated to environmental protection and social action. | React.js, Bootstrap, AOS |
+| **Rapid Delivery** | Real-time delivery tracking mobile application with driver dashboard. | Flutter, Firebase, Maps API |
 
 ---
 
