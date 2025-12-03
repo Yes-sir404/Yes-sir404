@@ -1,7 +1,7 @@
 # 🔗 Yassir Bahraoui — Software Engineer & Web3 Builder
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcPC&format=png&color=00AEEF" width="90"/>
+  <img src="https://img.icons8.com/color/96/blockchain.png" width="90"/>
 </p>
 
 <h3 align="center">🚀 Full-Stack Developer • Blockchain Enthusiast • Smart Contract Builder</h3>
@@ -58,9 +58,10 @@ I’m **Yassir Bahraoui**, a passionate **Software Engineering Student @ ENSIASD
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yes-sir404&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yes-sir404&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yes-sir404&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yes-sir404&layout=compact&theme=tokyonight"/>
 </p>
+
 
 ---
 
@@ -79,6 +80,6 @@ I’m **Yassir Bahraoui**, a passionate **Software Engineering Student @ ENSIASD
 ---
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcPC&format=png&color=00AEEF" width="60"/><br>
+  <img src="https://img.icons8.com/color/96/blockchain.png" width="90"/>
   <strong>Building the future, block by block.</strong>
 </p>
