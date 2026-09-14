@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Full-Stack Developer • Blockchain Enthusiast • Smart Contract Builder</h3>
 
 <p align="center"><strong>Building decentralized, scalable and secure systems — block by block.</strong></p>
-<p align="center"><strong>Visit my website : <a href="https://www.yassirbahraoui.work/">yasirbahraoui.work</a> </strong></p>
+<p align="center"><strong>Visit my website : <a href="https://www.yassirbahraoui.work/">yassirbahraoui.work</a> </strong></p>
 
 ---
 
