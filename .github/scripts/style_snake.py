@@ -44,6 +44,9 @@ def decorate(path, today):
     style = node(source, 'style')
     style.text = ':root{--cb:rgba(27,31,36,0.06)}.c{width:' + str(11/scale) + 'px;height:' + str(11/scale) + 'px;stroke-width:' + str(1/scale) + 'px;stroke:rgba(27,31,36,0.06)}'
     for cell in cells:
+        # Set the variable on each square, so inherited dark-theme values cannot
+        # recolor empty cells or cells cleared by the snake's animation.
+        cell.set('style', cell.get('style', '').rstrip(';') + ';--ce:#eff2f5 !important;--c0:#eff2f5 !important')
         cell.set('rx', str(2/scale))
         cell.set('ry', str(2/scale))
     root.append(source)
