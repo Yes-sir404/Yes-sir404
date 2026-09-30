@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/snake.yml"
+      - ".github/scripts/style_snake.py"
   schedule:
     - cron: "23 3 * * *"
   workflow_dispatch:
@@ -24,6 +25,11 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Check out calendar styling script
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
       - name: Generate light and dark contribution snakes
         uses: Platane/snk/svg-only@v3
         with:
@@ -31,6 +37,9 @@ jobs:
           outputs: |
             dist/github-snake.svg?palette=github-light&color_snake=#116329&color_dots=#eff2f5,#aceebb,#4ac26b,#2da44e,#116329
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#2da44e&color_dots=#151b23,#aceebb,#4ac26b,#2da44e,#116329
+
+      - name: Apply GitHub calendar layout while preserving the snake animation
+        run: python3 .github/scripts/style_snake.py dist/github-snake.svg dist/github-snake-dark.svg
 
       - name: Publish SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v5
