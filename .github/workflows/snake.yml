@@ -36,7 +36,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?palette=github-light&color_snake=#116329&color_dots=#eff2f5,#aceebb,#4ac26b,#2da44e,#116329
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#2da44e&color_dots=#151b23,#aceebb,#4ac26b,#2da44e,#116329
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#2da44e&color_dots=#eff2f5,#aceebb,#4ac26b,#2da44e,#116329
 
       - name: Apply GitHub calendar layout while preserving the snake animation
         run: python3 .github/scripts/style_snake.py dist/github-snake.svg dist/github-snake-dark.svg

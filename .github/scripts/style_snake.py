@@ -21,7 +21,7 @@ def decorate(path, today):
     scale = 15 / pitch
     dark = 'dark' in path.stem
     background, text, muted, border, empty = (
-        ('#0d1117', '#f0f6fc', '#9198a1', '#3d444d', '#151b23') if dark else
+        ('#0d1117', '#f0f6fc', '#9198a1', '#3d444d', '#eff2f5') if dark else
         ('#ffffff', '#1f2328', '#59636e', '#d1d9e0', '#eff2f5')
     )
     greens = ['#aceebb', '#4ac26b', '#2da44e', '#116329']
