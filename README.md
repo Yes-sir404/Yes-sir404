@@ -16,7 +16,7 @@
   <a href="mailto:bahraouiyassir.pro@gmail.com"><img src="https://img.shields.io/badge/Email-7DCFFF?style=for-the-badge&amp;logo=gmail&amp;logoColor=1A1B27" alt="Email Yassir" /></a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yes-sir404&amp;label=Profile%20views&amp;color=7aa2f7&amp;style=flat&amp;abbreviated=true&amp;v=2" alt="GitHub profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yes-sir404.Yes-sir404&amp;left_text=Profile%20views&amp;right_color=7aa2f7" alt="GitHub profile views" />
 </p>
 
 ---
@@ -112,18 +112,13 @@ My current interests include **Model Context Protocol (MCP), AI agents and orche
 
 ### Contribution activity
 
-<p align="center">
-  <a href="https://github.com/Yes-sir404?tab=overview">View my contribution history on GitHub</a>
-</p>
-
-<!-- Enable this picture after the Generate contribution snake workflow succeeds.
+<!-- Generated daily by .github/workflows/snake.yml. -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yes-sir404/Yes-sir404/output/github-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/Yes-sir404/Yes-sir404/output/github-snake.svg" alt="Animated snake tracing Yassir's GitHub contribution graph" width="100%" />
   </picture>
 </p>
--->
 
 ---
 
