@@ -21,6 +21,16 @@
 
 ---
 
+### Contribution activity
+
+<!-- Generated daily by .github/workflows/snake.yml. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yes-sir404/Yes-sir404/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Yes-sir404/Yes-sir404/output/github-snake.svg" alt="Animated snake tracing Yassir's GitHub contribution graph" width="100%" />
+  </picture>
+</p>
+
 ## About me
 
 I'm a software engineering student working across **backend systems, blockchain infrastructure, and developer tooling**. I study at **ENSIASD** and **1337 Coding School**, with a focus on turning technical ideas into working applications and practical tools.
@@ -109,16 +119,6 @@ My current interests include **Model Context Protocol (MCP), AI agents and orche
 </p>
 
 <sub>Language statistics reflect public repository code, not proficiency.</sub>
-
-### Contribution activity
-
-<!-- Generated daily by .github/workflows/snake.yml. -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yes-sir404/Yes-sir404/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Yes-sir404/Yes-sir404/output/github-snake.svg" alt="Animated snake tracing Yassir's GitHub contribution graph" width="100%" />
-  </picture>
-</p>
 
 ---
 
